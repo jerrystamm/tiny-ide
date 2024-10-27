@@ -13,7 +13,7 @@ Tiny IDE is a lightweight, desktop-based Integrated Development Environment (IDE
 ### Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/jerrystamm/tiny-ide.gi
+   git clone https://github.com/jerrystamm/tiny-ide.git
    ```
 2. Navigate to the project directory:
     ```
@@ -25,7 +25,7 @@ Tiny IDE is a lightweight, desktop-based Integrated Development Environment (IDE
     ```
 4. Run Tiny IDE:
     ```
-    python src/main.py
+    python main.py
     ```
     
 ## Usage
