@@ -1,5 +1,6 @@
 import subprocess
 import psutil
+import os
 
 class ProgramProcessManager:
 
@@ -41,6 +42,7 @@ class ProgramProcessManager:
 
     def runCode(self, insert_function, code, language):
 
+        os.makedirs('src/io', exist_ok = True)
         standard_output = open("src/io/standard_output", "w+")
         standard_output.truncate(0)
 
