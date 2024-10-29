@@ -1,7 +1,7 @@
 # Tiny IDE
 
 ## Overview
-Tiny IDE is a lightweight, desktop-based Integrated Development Environment (IDE) built for simplicity and user-friendliness. With its minimalistic interface and built-in console that interacts with the standard input and output of running programs, Tiny IDE enables users to quickly interact with small code snippets without the overhead of more complex IDEs.
+Tiny IDE is a lightweight, desktop-based Integrated Development Environment (IDE) built for simplicity. With a minimalistic interface and built-in console that interacts with the standard input and output of running programs, Tiny IDE enables quick interactations with small code snippets without the overhead of more complex IDEs.
 
 
 ## Installation
