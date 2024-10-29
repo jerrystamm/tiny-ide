@@ -10,6 +10,10 @@ class TextEdit(QTextEdit):
                 self.enter_signal.emit("Enter")
         super().keyPressEvent(event)
 
+    def mousePressEvent(self, event):
+        # Do nothing on mouse press
+        pass
+
 class Ui_MainWindow(object):
     
     def setupUi(self, MainWindow):
