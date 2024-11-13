@@ -7,7 +7,9 @@ Tiny IDE is a lightweight, desktop-based Integrated Development Environment (IDE
 ## Installation
 
 ### Prerequisites
-- Python 3.x
+- Python
+- Node.js
+- GNU C++ compiler
 - Required Python packages specified in `requirements.txt`
 
 ### Steps
